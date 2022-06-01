@@ -7,4 +7,4 @@ The goal of the data exploration analysis is to understand the forces why custom
 
 The dataset was taken from Kaggle, https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
-Note: I am trained as an economist and in a process to understand data better through data science. You can find me in here (https://www.linkedin.com/in/meikha-azzani-813724138/)
+Note: I was trained as an economist and in a process to understand data better through data science. You can find me in here (https://www.linkedin.com/in/meikha-azzani-813724138/)
